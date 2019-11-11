@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>2psh.jpg</filename>
+	<path>/Users/pgray/Test/tensorflow_model/object_detection_demo/data/images/train/2psh.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2psh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>173</ymin>
+			<xmax>617</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+</annotation>
